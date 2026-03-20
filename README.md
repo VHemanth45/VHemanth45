@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hi! I am Hemanth 
-A final Year Student at IIT BHU
-Experienced in building ML models
-Interested in solving real-world problems using data and intelligence
+
+- Hi, I'm Hemanth  
+- Final Year Student at IIT BHU  
+- Building ML & AI solutions  
+- Passionate about solving real-world problems using data  
 
 ## 🌐 Socials:
 
